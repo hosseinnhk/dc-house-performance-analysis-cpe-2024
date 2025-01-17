@@ -9,8 +9,8 @@ Leveraging advancements in power electronics, the adoption of Direct Current (dc
 
 ![Image](https://github.com/user-attachments/assets/c8b9219e-f5e7-4559-a3f3-bbfecd54c381)
 ![Image](https://github.com/user-attachments/assets/cea43626-3ec2-4424-be50-36c635af0390)
-![Image](https://github.com/user-attachments/assets/c798d1fd-37af-41e9-9f63-b06a56014731)
 ![Image](https://github.com/user-attachments/assets/9d73d3ff-a2f2-4fbe-b579-82e593b6f9e6)
+![Image](https://github.com/user-attachments/assets/c798d1fd-37af-41e9-9f63-b06a56014731)
 ![Image](https://github.com/user-attachments/assets/a97b8055-5651-4299-9d37-2ff24350bfea)
 ![Image](https://github.com/user-attachments/assets/7afb25c4-5f18-48a4-bb86-ef38233ef4b6)
 ![Image](https://github.com/user-attachments/assets/83b25f21-f133-4669-85da-f8bcf796a08a)
